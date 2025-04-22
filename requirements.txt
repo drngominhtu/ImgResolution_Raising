@@ -1,0 +1,6 @@
+numpy==1.24.3
+torch==1.12.1+cu113
+torchvision==0.13.1+cu113
+basicsr==1.4.2
+realesrgan==0.3.0
+opencv-python
